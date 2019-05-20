@@ -1,0 +1,7 @@
+Hola pepe tu cedula es: 765432 
+
+y te has incrito al curso de: Inteligencia Artificial 
+
+el cual tiene una duracion de: 60 horas 
+
+y por tan solo 200000 Pesos
